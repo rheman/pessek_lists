@@ -1,6 +1,6 @@
 {
 	"name": "pessek/pessek_lists",
-	"version": "4.0",
+	"version": "4.1",
 	"type": "elgg-plugin",
 	"description": "AJAX lists for Elgg",
 	"keywords": [
